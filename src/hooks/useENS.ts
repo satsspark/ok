@@ -3,7 +3,7 @@ import { ethers } from 'ethers';
 import { useWallet } from './useWallet';
 
 // OKB域名服务合约地址 (X Layer)
-const DOMAINS_CONTRACT_ADDRESS = '0x74b87a44F885494c445478328748DF7a6Ff423c6'; // 您的新域名注册合约地址
+const DOMAINS_CONTRACT_ADDRESS = '0x1A1b6AeeE5D388C4f21e53132455802028B98C37'; // 您的新域名注册合约地址
 
 // 域名合约ABI (从您的scenario.json)
 const DOMAINS_ABI = [
